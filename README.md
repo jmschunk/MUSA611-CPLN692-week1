@@ -34,6 +34,7 @@ The `50.5, 30.5` part refers to a set of coordinates: latitude and longitude (la
 In our class, we'll learn a number of ways to find coordinates for a location that we want to map.
 An easy way to do this for a single address is to use Google Maps. Check out these instructions
 to [Get the coordinates of a place](https://support.google.com/maps/answer/18539?hl=en).
+Test
 
 
 #### Task 3: Add two more markers
@@ -58,5 +59,3 @@ of graphics cards to generate powerful vizualisations incredibly quickly). Mapbo
 more involved and we won't be touching on it until the second half of the course but the
 [examples provided by Mapbox](https://www.mapbox.com/mapbox-gl-js/example/simple-map/) are
 worth clicking through for inspiration and a sense of where we're headed.
-
-
